@@ -1,0 +1,2 @@
+npx creat-react-app appname
+https://pro.ant.design/docs/style
